@@ -77,7 +77,6 @@ menu.addDishToCourse('desserts', 'Creme Brule', 8.25);
 menu.addDishToCourse('desserts', 'Lava Cake', 7.25);
 
 let meal = menu.generateRandomMeal();
-
 console.log(menu._courses.mains)
 console.log(menu._courses._appetizers)
 console.log(meal);
