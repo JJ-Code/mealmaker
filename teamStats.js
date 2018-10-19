@@ -75,13 +75,4 @@ team.addGame('Jets', 44, 36)
 team.addGame('Ravens', 23, 41)
 
 console.log(team._games)
-
-const car = {
-    numDoors: 4,
-    isDirty: true,
-    color: 'red'
-}
-
-for (let value in car) {
-    console.log(value)
-}
+                                                                                                                                                                                     
