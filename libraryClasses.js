@@ -172,4 +172,4 @@ console.log(speed.isCheckedOut);
 speed.addRating(3);
 speed.addRating(4);
 speed.addRating(6);
-console.log(speed.getAverageRating)
+console.log(speed.getAverageRating())
